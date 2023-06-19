@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "438677178119",
+    "firebase_url": "https://profitmart-36a83.firebaseio.com",
+    "project_id": "profitmart-36a83",
+    "storage_bucket": "profitmart-36a83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438677178119:android:451ef5dee05b30a9",
+        "android_client_info": {
+          "package_name": "com.example.goutam.profitmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438677178119-c003d0ld65ca7v3ctbho5kp0t7oiob71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbl7iJ8-rbL5JNaR36RdBMEt3AX2XBjvI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438677178119:android:ee5c7d692ccd940e",
+        "android_client_info": {
+          "package_name": "com.xtrem.xtrem.profitmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438677178119-c003d0ld65ca7v3ctbho5kp0t7oiob71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbl7iJ8-rbL5JNaR36RdBMEt3AX2XBjvI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
